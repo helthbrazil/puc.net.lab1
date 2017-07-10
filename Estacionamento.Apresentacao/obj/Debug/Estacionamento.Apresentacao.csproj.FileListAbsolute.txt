@@ -1,0 +1,11 @@
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Apresentacao\bin\Debug\Estacionamento.Apresentacao.exe.config
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Apresentacao\bin\Debug\Estacionamento.Apresentacao.exe
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Apresentacao\bin\Debug\Estacionamento.Apresentacao.pdb
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Apresentacao\bin\Debug\Estacionamento.Negocio.dll
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Apresentacao\bin\Debug\Estacionamento.Negocio.pdb
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.EstacionamentoForm.resources
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.Properties.Resources.resources
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.csproj.GenerateResource.Cache
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.exe
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.pdb

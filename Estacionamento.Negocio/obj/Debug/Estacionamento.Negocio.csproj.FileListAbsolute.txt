@@ -1,0 +1,5 @@
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Negocio\bin\Debug\Estacionamento.Negocio.dll
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Negocio\bin\Debug\Estacionamento.Negocio.pdb
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Negocio\obj\Debug\Estacionamento.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Negocio\obj\Debug\Estacionamento.Negocio.dll
+C:\Users\885380\Desktop\TP1-master\Estacionamento.Negocio\obj\Debug\Estacionamento.Negocio.pdb
